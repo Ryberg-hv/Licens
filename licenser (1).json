@@ -1,0 +1,22 @@
+{
+ "v": 1,
+ "updated": 1794257466497,
+ "lic": [
+  {
+   "id": "L-Q4JR5",
+   "co": "452",
+   "niva": "kompani",
+   "namn": "452 insatskompaniet",
+   "kid": "",
+   "ts": 1794255836144
+  },
+  {
+   "id": "L-JWSB5",
+   "co": "45",
+   "niva": "bataljon",
+   "namn": "45 Hallandsbataljonen",
+   "kid": "",
+   "ts": 1794256000228
+  }
+ ]
+}
